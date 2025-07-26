@@ -19,10 +19,15 @@ This project allows users to extract transcripts from YouTube videos and generat
 
 # Functional Flow
 1)User submits a YouTube link
+
 2)Video ID is extracted and passed to the API
+
 3)Transcript text is fetched
+
 4)LexRank summarizes the transcript based on user-selected length
+
 5)Summary is rendered along with word count and video thumbnail
+
 6)Summary can be downloaded
 
   
